@@ -1513,3 +1513,11 @@ header.scrolled {
         font-size: 1.2rem;
     }
 }
+
+@media (max-width: 480px) {
+  .container,
+  section {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+}
