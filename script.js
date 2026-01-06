@@ -15,11 +15,11 @@ document.addEventListener('DOMContentLoaded', function() {
     // Professions for typewriter effect
     const professions = [
         'Python',
-        'Frontend Engineer', 
-        'Backend Developer',
-        'UI/UX Enthusiast',
-        'Problem Solver',
-        'Tech Innovator'
+        'framework kivy', 
+        'framework tkinter',
+        'Desainer',
+        'web depelopment',
+        
     ];
 
     // Typewriter Effect
